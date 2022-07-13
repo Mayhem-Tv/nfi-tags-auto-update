@@ -9,9 +9,9 @@ TG_TOKEN=""
 TG_CHAT_ID=""
 TG_FT_BOT_ID=""
 
-ROOT_PATH="/home/ubuntu"
+ROOT_PATH="/home/franklin_leon_d"
 NFI_DIR="${ROOT_PATH}/NostalgiaForInfinity"
-FT_DIR="${ROOT_PATH}/freqtrade/"
+FT_DIR="${ROOT_PATH}/ft_userdata/"
 
 GIT_URL="https://github.com/iterativv/NostalgiaForInfinity"
 
