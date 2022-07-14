@@ -5,9 +5,9 @@ set -x
 MODE="tags"
 AUTO_RELOAD=true
 
-TG_TOKEN=""
-TG_CHAT_ID=""
-TG_FT_BOT_ID=""
+TG_TOKEN="5232175834:AAFZ6eRMujdaEy_ZUfpJf2-QjWbxnv6ysig"
+TG_CHAT_ID="493383140
+TG_FT_BOT_ID="Kucoin-Bot"
 
 ROOT_PATH="/home/franklin_leon_d"
 NFI_DIR="${ROOT_PATH}/NostalgiaForInfinity"
